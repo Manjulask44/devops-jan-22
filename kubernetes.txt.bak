@@ -1242,7 +1242,7 @@ resource limits and quotas
 	Limitations 
 		CPU 
 			- 1 cpu, in k8s is equal to 1 core/cpu 100%.
-			ex:  0.1 cpu - 10 % of 1 cpu - 1 gup - 1 hyperthread - 1 Nueral 
+			ex:  0.1 cpu - 10 % of 1 cpu - 1 gpu - 1 hyperthread - 1 Nueral 
 		
 		Memory 
 			- It will be in terms of bytes 
